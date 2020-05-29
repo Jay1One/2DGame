@@ -1,0 +1,1557 @@
+fileFormatVersion: 2
+guid: db2df9fec93d8b344b25da2ce0b7f186
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Snowy Game Level Set_Environment - Pack_0
+  - first:
+      213: 21300002
+    second: Snowy Game Level Set_Environment - Pack_1
+  - first:
+      213: 21300004
+    second: Snowy Game Level Set_Environment - Pack_2
+  - first:
+      213: 21300006
+    second: Snowy Game Level Set_Environment - Pack_3
+  - first:
+      213: 21300008
+    second: Snowy Game Level Set_Environment - Pack_4
+  - first:
+      213: 21300010
+    second: Snowy Game Level Set_Environment - Pack_5
+  - first:
+      213: 21300012
+    second: Snowy Game Level Set_Environment - Pack_6
+  - first:
+      213: 21300014
+    second: Snowy Game Level Set_Environment - Pack_7
+  - first:
+      213: 21300016
+    second: Snowy Game Level Set_Environment - Pack_8
+  - first:
+      213: 21300018
+    second: Snowy Game Level Set_Environment - Pack_9
+  - first:
+      213: 21300020
+    second: Snowy Game Level Set_Environment - Pack_10
+  - first:
+      213: 21300022
+    second: Snowy Game Level Set_Environment - Pack_11
+  - first:
+      213: 21300024
+    second: Snowy Game Level Set_Environment - Pack_12
+  - first:
+      213: 21300026
+    second: Snowy Game Level Set_Environment - Pack_13
+  - first:
+      213: 21300028
+    second: Snowy Game Level Set_Environment - Pack_14
+  - first:
+      213: 21300030
+    second: Snowy Game Level Set_Environment - Pack_15
+  - first:
+      213: 21300032
+    second: Snowy Game Level Set_Environment - Pack_16
+  - first:
+      213: 21300034
+    second: Snowy Game Level Set_Environment - Pack_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.58
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 238
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -27.5}
+        - {x: -9.5, y: -26.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -8.5, y: -14.5}
+        - {x: -8.5, y: -2.5}
+        - {x: -9.5, y: -1.5}
+        - {x: -9.5, y: 7.5}
+        - {x: -8.5, y: 8.5}
+        - {x: -6.5, y: 8.5}
+        - {x: -5.5, y: 6.5}
+        - {x: -2.5, y: -1.5}
+        - {x: 2.5, y: -5.5}
+        - {x: 4.5, y: -5.5}
+        - {x: 8.5, y: -7.5}
+        - {x: 19.5, y: -7.5}
+        - {x: 20.5, y: -6.5}
+        - {x: 26.5, y: -5.5}
+        - {x: 30.5, y: -1.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 28.5, y: 7.5}
+        - {x: 25.5, y: 8.5}
+        - {x: 20.5, y: 12.5}
+        - {x: 20.5, y: 25.5}
+        - {x: 19.5, y: 26.5}
+        - {x: 19.5, y: 31.5}
+        - {x: 18.5, y: 32.5}
+        - {x: 17.5, y: 36.5}
+        - {x: 10.5, y: 43.5}
+        - {x: 9.5, y: 43.5}
+        - {x: 7.5, y: 46.5}
+        - {x: -3.5, y: 51.5}
+        - {x: -7.5, y: 52.5}
+        - {x: -9.5, y: 55.5}
+        - {x: -9.5, y: 59.5}
+        - {x: -12.5, y: 62.5}
+        - {x: -24.5, y: 62.5}
+        - {x: -26.5, y: 61.5}
+        - {x: -27.5, y: 58.5}
+        - {x: -27.5, y: 55.5}
+        - {x: -29.5, y: 53.5}
+        - {x: -29.5, y: 46.5}
+        - {x: -27.5, y: 44.5}
+        - {x: -27.5, y: 19.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -29.5, y: 11.5}
+        - {x: -27.5, y: 8.5}
+        - {x: -27.5, y: -13.5}
+        - {x: -26.5, y: -14.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -27.5, y: -18.5}
+        - {x: -27.5, y: -34.5}
+        - {x: -26.5, y: -35.5}
+        - {x: -26.5, y: -57.5}
+        - {x: -22.5, y: -62.5}
+        - {x: -13.5, y: -62.5}
+        - {x: -9.5, y: -58.5}
+        - {x: -9.5, y: -34.5}
+        - {x: -10.5, y: -33.5}
+      physicsShape:
+      - - {x: -27, y: 61}
+        - {x: -28, y: 58}
+        - {x: -28, y: -61}
+        - {x: -7, y: -61}
+        - {x: 28, y: -20}
+        - {x: 28, y: 39}
+        - {x: -1, y: 61}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: b1751ccdc47e4be4d8074df025692442
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 382
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8db78617413e854a86a1fb83dee6454
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 382
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f9929f577f0a343a75aab3261031f1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 231
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 8}
+        - {x: 29, y: 15}
+        - {x: 29, y: 22}
+        - {x: 24, y: 26}
+        - {x: -23, y: 26}
+        - {x: -29, y: 19}
+        - {x: -29, y: -23}
+        - {x: -27, y: -26}
+        - {x: -14, y: -26}
+        - {x: -10, y: -21}
+        - {x: -4, y: -6}
+        - {x: 0, y: 7}
+      physicsShape:
+      - - {x: -29, y: 26}
+        - {x: -29, y: -26}
+        - {x: -11, y: -26}
+        - {x: 29, y: 10}
+        - {x: 29, y: 24}
+        - {x: 24, y: 26}
+      tessellationDetail: 0.19
+      bones: []
+      spriteID: f5fd6d4e35c68bc4da0e03790c9eb22f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 256
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882328280e56ab47b6391db27195f85
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 231
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ec5c0e9f101b4c90cd2ca9e1feff5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 214
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28274c4ab9505fc46a96fe312f7f69b3
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 172
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1ae0bf4989fe4cb0afced6e624f00
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 174
+        width: 124
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 2.5}
+        - {x: 59, y: 4.5}
+        - {x: 49, y: 6.5}
+        - {x: 35, y: 6.5}
+        - {x: 25, y: 5.5}
+        - {x: 24, y: 6.5}
+        - {x: 8, y: 10.5}
+        - {x: 14, y: 10.5}
+        - {x: 16, y: 12.5}
+        - {x: 16, y: 13.5}
+        - {x: -44, y: 13.5}
+        - {x: -43, y: 10.5}
+        - {x: -20, y: 10.5}
+        - {x: -26, y: 9.5}
+        - {x: -31, y: 8.5}
+        - {x: -38, y: 7.5}
+        - {x: -48, y: 6.5}
+        - {x: -54, y: 5.5}
+        - {x: -59, y: 3.5}
+        - {x: -62, y: 0.5}
+        - {x: -62, y: -9.5}
+        - {x: -59, y: -12.5}
+        - {x: -56, y: -13.5}
+        - {x: -35, y: -13.5}
+        - {x: -34, y: -12.5}
+        - {x: -21, y: -12.5}
+        - {x: -20, y: -13.5}
+        - {x: 53, y: -13.5}
+        - {x: 57, y: -12.5}
+        - {x: 62, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0.61
+      bones: []
+      spriteID: ca1a1e58f7b476149a17c5fab4335962
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d169e18fd6011489b701460290f7ac
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f8e3e5ad460c4c85a3d9346783ff1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96963b85a5dd3c44ea9c7c5443136074
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 61
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05361657b4616d4aa229f236c147497
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 99
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70193b82fda805a478af9dfd8e3c77b0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 111
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c5d01502240d4abcb8cffb8a14622
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b076a63f26b347af7dd375b01e29b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82345062536e04f922ab869ef30a22
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy Game Level Set_Environment - Pack_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 172
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9f0ed023bdbb448ff8a811e56f574
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -41, y: -241}
+      - {x: -39, y: -235}
+      - {x: -39, y: -227}
+      - {x: -42, y: -214}
+      - {x: -48, y: -206}
+      - {x: -54, y: -205}
+      - {x: -70, y: -205}
+      - {x: -75, y: -207}
+      - {x: -81, y: -215}
+      - {x: -83, y: -223}
+      - {x: -85, y: -229}
+      - {x: -85, y: -237}
+      - {x: -83, y: -244}
+      - {x: -81, y: -247}
+      - {x: -73, y: -255}
+      - {x: -71, y: -256}
+      - {x: -52, y: -256}
+      - {x: -48, y: -251}
+      - {x: -44, y: -247}
+    - - {x: 66, y: -236}
+      - {x: 69, y: -245}
+      - {x: 73, y: -250}
+      - {x: 82, y: -253}
+      - {x: 91, y: -255}
+      - {x: 96, y: -256}
+      - {x: 142, y: -256}
+      - {x: 150, y: -255}
+      - {x: 158, y: -249}
+      - {x: 159, y: -245}
+      - {x: 162, y: -234}
+      - {x: 163, y: -238}
+      - {x: 164, y: -241}
+      - {x: 175, y: -252}
+      - {x: 180, y: -256}
+      - {x: 228, y: -256}
+      - {x: 232, y: -255}
+      - {x: 239, y: -249}
+      - {x: 242, y: -246}
+      - {x: 245, y: -241}
+      - {x: 252, y: -226}
+      - {x: 254, y: -221}
+      - {x: 256, y: -215}
+      - {x: 256, y: -195}
+      - {x: 255, y: -190}
+      - {x: 252, y: -178}
+      - {x: 250, y: -172}
+      - {x: 247, y: -165}
+      - {x: 241, y: -160}
+      - {x: 244, y: -160}
+      - {x: 249, y: -156}
+      - {x: 253, y: -151}
+      - {x: 255, y: -146}
+      - {x: 256, y: -143}
+      - {x: 256, y: -129}
+      - {x: 255, y: -126}
+      - {x: 250, y: -117}
+      - {x: 244, y: -114}
+      - {x: 239, y: -112}
+      - {x: 233, y: -110}
+      - {x: 223, y: -110}
+      - {x: 215, y: -113}
+      - {x: 210, y: -109}
+      - {x: 210, y: -105}
+      - {x: 208, y: -100}
+      - {x: 205, y: -98}
+      - {x: 203, y: -96}
+      - {x: 196, y: -93}
+      - {x: 190, y: -91}
+      - {x: 182, y: -89}
+      - {x: 167, y: -89}
+      - {x: 166, y: -90}
+      - {x: 156, y: -90}
+      - {x: 147, y: -91}
+      - {x: 140, y: -92}
+      - {x: 134, y: -93}
+      - {x: 130, y: -94}
+      - {x: 125, y: -96}
+      - {x: 118, y: -104}
+      - {x: 115, y: -108}
+      - {x: 113, y: -113}
+      - {x: 113, y: -121}
+      - {x: 115, y: -123}
+      - {x: 116, y: -129}
+      - {x: 123, y: -138}
+      - {x: 130, y: -143}
+      - {x: 134, y: -145}
+      - {x: 131, y: -146}
+      - {x: 124, y: -149}
+      - {x: 120, y: -154}
+      - {x: 117, y: -163}
+      - {x: 116, y: -173}
+      - {x: 117, y: -177}
+      - {x: 119, y: -182}
+      - {x: 123, y: -191}
+      - {x: 126, y: -195}
+      - {x: 131, y: -197}
+      - {x: 139, y: -198}
+      - {x: 148, y: -198}
+      - {x: 153, y: -196}
+      - {x: 159, y: -190}
+      - {x: 163, y: -180}
+      - {x: 164, y: -171}
+      - {x: 164, y: -160}
+      - {x: 163, y: -157}
+      - {x: 156, y: -150}
+      - {x: 148, y: -147}
+      - {x: 157, y: -148}
+      - {x: 187, y: -148}
+      - {x: 192, y: -147}
+      - {x: 199, y: -144}
+      - {x: 207, y: -141}
+      - {x: 209, y: -148}
+      - {x: 211, y: -153}
+      - {x: 201, y: -158}
+      - {x: 196, y: -161}
+      - {x: 190, y: -165}
+      - {x: 183, y: -170}
+      - {x: 175, y: -177}
+      - {x: 167, y: -185}
+      - {x: 165, y: -188}
+      - {x: 163, y: -195}
+      - {x: 162, y: -200}
+      - {x: 161, y: -207}
+      - {x: 161, y: -213}
+      - {x: 154, y: -206}
+      - {x: 139, y: -199}
+      - {x: 129, y: -198}
+      - {x: 128, y: -197}
+      - {x: 120, y: -196}
+      - {x: 111, y: -195}
+      - {x: 97, y: -195}
+      - {x: 96, y: -194}
+      - {x: 92, y: -194}
+      - {x: 88, y: -195}
+      - {x: 83, y: -197}
+      - {x: 77, y: -201}
+      - {x: 70, y: -207}
+      - {x: 67, y: -206}
+      - {x: 64, y: -199}
+      - {x: 54, y: -189}
+      - {x: 55, y: -184}
+      - {x: 55, y: -174}
+      - {x: 52, y: -167}
+      - {x: 38, y: -153}
+      - {x: 32, y: -151}
+      - {x: 27, y: -150}
+      - {x: 20, y: -149}
+      - {x: 6, y: -149}
+      - {x: 5, y: -148}
+      - {x: -6, y: -148}
+      - {x: -13, y: -149}
+      - {x: -21, y: -154}
+      - {x: -26, y: -160}
+      - {x: -28, y: -163}
+      - {x: -28, y: -165}
+      - {x: -32, y: -172}
+      - {x: -32, y: -174}
+      - {x: -37, y: -184}
+      - {x: -39, y: -190}
+      - {x: -40, y: -194}
+      - {x: -40, y: -199}
+      - {x: -39, y: -205}
+      - {x: -35, y: -217}
+      - {x: -32, y: -224}
+      - {x: -25, y: -230}
+      - {x: -20, y: -233}
+      - {x: -15, y: -235}
+      - {x: -11, y: -239}
+      - {x: -8, y: -245}
+      - {x: -1, y: -251}
+      - {x: 4, y: -253}
+      - {x: 12, y: -255}
+      - {x: 17, y: -256}
+      - {x: 44, y: -256}
+      - {x: 55, y: -251}
+      - {x: 63, y: -244}
+      - {x: 65, y: -239}
+    - - {x: 114, y: -170}
+      - {x: 114, y: -164}
+      - {x: 112, y: -155}
+      - {x: 111, y: -150}
+      - {x: 103, y: -144}
+      - {x: 88, y: -144}
+      - {x: 83, y: -146}
+      - {x: 70, y: -156}
+      - {x: 68, y: -162}
+      - {x: 68, y: -178}
+      - {x: 70, y: -184}
+      - {x: 72, y: -188}
+      - {x: 79, y: -194}
+      - {x: 97, y: -194}
+      - {x: 101, y: -193}
+      - {x: 107, y: -188}
+      - {x: 112, y: -177}
+    - - {x: 175, y: -62}
+      - {x: 177, y: -55}
+      - {x: 180, y: -49}
+      - {x: 190, y: -48}
+      - {x: 199, y: -47}
+      - {x: 206, y: -48}
+      - {x: 212, y: -51}
+      - {x: 213, y: -57}
+      - {x: 218, y: -62}
+      - {x: 222, y: -75}
+      - {x: 227, y: -79}
+      - {x: 233, y: -79}
+      - {x: 239, y: -73}
+      - {x: 240, y: -69}
+      - {x: 242, y: -56}
+      - {x: 247, y: -50}
+      - {x: 248, y: -46}
+      - {x: 255, y: -46}
+      - {x: 256, y: -45}
+      - {x: 256, y: -40}
+      - {x: 250, y: -33}
+      - {x: 245, y: -31}
+      - {x: 241, y: -30}
+      - {x: 228, y: -30}
+      - {x: 217, y: -31}
+      - {x: 206, y: -31}
+      - {x: 201, y: -33}
+      - {x: 194, y: -41}
+      - {x: 187, y: -33}
+      - {x: 182, y: -31}
+      - {x: 171, y: -31}
+      - {x: 160, y: -30}
+      - {x: 145, y: -30}
+      - {x: 138, y: -33}
+      - {x: 130, y: -42}
+      - {x: 130, y: -43}
+      - {x: 133, y: -46}
+      - {x: 141, y: -51}
+      - {x: 147, y: -63}
+      - {x: 148, y: -73}
+      - {x: 150, y: -82}
+      - {x: 155, y: -86}
+      - {x: 162, y: -86}
+      - {x: 167, y: -81}
+      - {x: 168, y: -78}
+      - {x: 168, y: -70}
+    - - {x: 117, y: -75}
+      - {x: 117, y: -70}
+      - {x: 112, y: -65}
+      - {x: 107, y: -63}
+      - {x: 102, y: -62}
+      - {x: 88, y: -62}
+      - {x: 69, y: -61}
+      - {x: 65, y: -59}
+      - {x: 67, y: -58}
+      - {x: 69, y: -56}
+      - {x: 68, y: -53}
+      - {x: 11, y: -53}
+      - {x: 9, y: -55}
+      - {x: 10, y: -58}
+      - {x: 34, y: -58}
+      - {x: 22, y: -60}
+      - {x: 15, y: -61}
+      - {x: 5, y: -62}
+      - {x: -1, y: -63}
+      - {x: -6, y: -65}
+      - {x: -11, y: -70}
+      - {x: -11, y: -76}
+      - {x: -8, y: -80}
+      - {x: -3, y: -82}
+      - {x: 18, y: -82}
+      - {x: 32, y: -81}
+      - {x: 33, y: -82}
+      - {x: 54, y: -84}
+      - {x: 89, y: -84}
+      - {x: 97, y: -83}
+      - {x: 110, y: -81}
+      - {x: 116, y: -78}
+    - - {x: 104, y: -31}
+      - {x: 99, y: -26}
+      - {x: 94, y: -24}
+      - {x: 89, y: -23}
+      - {x: 52, y: -23}
+      - {x: 41, y: -25}
+      - {x: 37, y: -30}
+      - {x: 37, y: -35}
+      - {x: 40, y: -40}
+      - {x: 46, y: -42}
+      - {x: 68, y: -43}
+      - {x: 76, y: -44}
+      - {x: 86, y: -44}
+      - {x: 94, y: -43}
+      - {x: 98, y: -42}
+      - {x: 104, y: -37}
+    - - {x: 151, y: -6}
+      - {x: 154, y: 1}
+      - {x: 157, y: 9}
+      - {x: 169, y: 9}
+      - {x: 172, y: 10}
+      - {x: 188, y: 17}
+      - {x: 188, y: 21}
+      - {x: 181, y: 27}
+      - {x: 176, y: 29}
+      - {x: 142, y: 29}
+      - {x: 134, y: 27}
+      - {x: 128, y: 21}
+      - {x: 126, y: 18}
+      - {x: 126, y: -20}
+      - {x: 132, y: -27}
+      - {x: 140, y: -27}
+      - {x: 145, y: -23}
+      - {x: 146, y: -20}
+      - {x: 147, y: -10}
+    - - {x: 251, y: -20}
+      - {x: 251, y: -14}
+      - {x: 247, y: -9}
+      - {x: 238, y: -6}
+      - {x: 221, y: -6}
+      - {x: 220, y: -7}
+      - {x: 196, y: -7}
+      - {x: 188, y: -9}
+      - {x: 184, y: -13}
+      - {x: 184, y: -18}
+      - {x: 186, y: -24}
+      - {x: 194, y: -27}
+      - {x: 216, y: -27}
+      - {x: 228, y: -26}
+      - {x: 242, y: -25}
+      - {x: 246, y: -24}
+    - - {x: -233, y: 41}
+      - {x: -230, y: 48}
+      - {x: -227, y: 41}
+      - {x: -222, y: 37}
+      - {x: -215, y: 35}
+      - {x: -205, y: 35}
+      - {x: -198, y: 37}
+      - {x: -194, y: 41}
+      - {x: -194, y: 47}
+      - {x: -196, y: 50}
+      - {x: -203, y: 56}
+      - {x: -204, y: 74}
+      - {x: -208, y: 81}
+      - {x: -219, y: 90}
+      - {x: -233, y: 97}
+      - {x: -234, y: 102}
+      - {x: -238, y: 106}
+      - {x: -248, y: 106}
+      - {x: -251, y: 104}
+      - {x: -254, y: 98}
+      - {x: -254, y: 89}
+      - {x: -252, y: 87}
+      - {x: -252, y: 62}
+      - {x: -254, y: 60}
+      - {x: -254, y: 54}
+      - {x: -252, y: 51}
+      - {x: -252, y: 8}
+      - {x: -251, y: -15}
+      - {x: -249, y: -20}
+      - {x: -236, y: -20}
+      - {x: -234, y: -16}
+      - {x: -234, y: 16}
+    - - {x: 251, y: 38}
+      - {x: 250, y: 41}
+      - {x: 243, y: 48}
+      - {x: 238, y: 52}
+      - {x: 230, y: 56}
+      - {x: 222, y: 55}
+      - {x: 214, y: 56}
+      - {x: 199, y: 56}
+      - {x: 191, y: 49}
+      - {x: 188, y: 44}
+      - {x: 188, y: 41}
+      - {x: 193, y: 39}
+      - {x: 198, y: 38}
+      - {x: 206, y: 32}
+      - {x: 216, y: 32}
+      - {x: 219, y: 29}
+      - {x: 222, y: 21}
+      - {x: 228, y: 14}
+      - {x: 229, y: 9}
+      - {x: 235, y: 1}
+      - {x: 240, y: -2}
+      - {x: 245, y: -2}
+      - {x: 250, y: 2}
+      - {x: 251, y: 4}
+    - - {x: 71, y: 140}
+      - {x: 88, y: 168}
+      - {x: 90, y: 169}
+      - {x: 109, y: 169}
+      - {x: 114, y: 174}
+      - {x: 116, y: 182}
+      - {x: 117, y: 191}
+      - {x: 117, y: 224}
+      - {x: 116, y: 228}
+      - {x: 113, y: 232}
+      - {x: 102, y: 240}
+      - {x: 95, y: 243}
+      - {x: 69, y: 243}
+      - {x: 66, y: 246}
+      - {x: 48, y: 246}
+      - {x: 43, y: 241}
+      - {x: 31, y: 243}
+      - {x: 17, y: 244}
+      - {x: 7, y: 237}
+      - {x: 3, y: 228}
+      - {x: 3, y: 184}
+      - {x: 5, y: 174}
+      - {x: 11, y: 169}
+      - {x: 26, y: 168}
+      - {x: 44, y: 168}
+      - {x: 44, y: 130}
+      - {x: 46, y: 125}
+      - {x: 49, y: 124}
+      - {x: 68, y: 124}
+      - {x: 71, y: 126}
+      - {x: 72, y: 129}
+      - {x: 72, y: 139}
+    - - {x: 207, y: 140}
+      - {x: 224, y: 168}
+      - {x: 226, y: 169}
+      - {x: 245, y: 169}
+      - {x: 250, y: 174}
+      - {x: 252, y: 182}
+      - {x: 253, y: 191}
+      - {x: 256, y: 199}
+      - {x: 256, y: 229}
+      - {x: 250, y: 235}
+      - {x: 245, y: 237}
+      - {x: 213, y: 237}
+      - {x: 210, y: 240}
+      - {x: 202, y: 246}
+      - {x: 196, y: 247}
+      - {x: 189, y: 251}
+      - {x: 181, y: 251}
+      - {x: 175, y: 245}
+      - {x: 166, y: 245}
+      - {x: 158, y: 241}
+      - {x: 150, y: 242}
+      - {x: 144, y: 241}
+      - {x: 136, y: 234}
+      - {x: 133, y: 225}
+      - {x: 133, y: 205}
+      - {x: 132, y: 205}
+      - {x: 132, y: 191}
+      - {x: 140, y: 183}
+      - {x: 140, y: 178}
+      - {x: 141, y: 174}
+      - {x: 147, y: 169}
+      - {x: 162, y: 168}
+      - {x: 180, y: 168}
+      - {x: 180, y: 130}
+      - {x: 182, y: 125}
+      - {x: 185, y: 124}
+      - {x: 204, y: 124}
+      - {x: 207, y: 126}
+      - {x: 208, y: 129}
+      - {x: 208, y: 139}
+    physicsShape:
+    - - {x: -42, y: -232}
+      - {x: -43, y: -229}
+      - {x: -46, y: -219}
+      - {x: -53, y: -213}
+      - {x: -68, y: -213}
+      - {x: -71, y: -214}
+      - {x: -76, y: -218}
+      - {x: -78, y: -223}
+      - {x: -82, y: -235}
+      - {x: -83, y: -241}
+      - {x: -81, y: -246}
+      - {x: -72, y: -255}
+      - {x: -69, y: -256}
+      - {x: -53, y: -256}
+      - {x: -48, y: -250}
+      - {x: -43, y: -243}
+      - {x: -41, y: -237}
+    - - {x: 64, y: -240}
+      - {x: 65, y: -236}
+      - {x: 65, y: -212}
+      - {x: 60, y: -204}
+      - {x: 51, y: -196}
+      - {x: 53, y: -187}
+      - {x: 53, y: -182}
+      - {x: 51, y: -177}
+      - {x: 48, y: -173}
+      - {x: 38, y: -163}
+      - {x: 33, y: -160}
+      - {x: 29, y: -159}
+      - {x: 23, y: -158}
+      - {x: 13, y: -157}
+      - {x: -8, y: -157}
+      - {x: -11, y: -158}
+      - {x: -18, y: -161}
+      - {x: -25, y: -169}
+      - {x: -26, y: -173}
+      - {x: -33, y: -187}
+      - {x: -37, y: -199}
+      - {x: -37, y: -208}
+      - {x: -36, y: -212}
+      - {x: -33, y: -220}
+      - {x: -31, y: -223}
+      - {x: -25, y: -230}
+      - {x: -16, y: -234}
+      - {x: -14, y: -234}
+      - {x: -9, y: -241}
+      - {x: -4, y: -249}
+      - {x: 3, y: -252}
+      - {x: 10, y: -254}
+      - {x: 21, y: -256}
+      - {x: 43, y: -256}
+      - {x: 52, y: -252}
+      - {x: 54, y: -250}
+      - {x: 63, y: -243}
+    - - {x: 157, y: -248}
+      - {x: 159, y: -243}
+      - {x: 161, y: -237}
+      - {x: 161, y: -224}
+      - {x: 160, y: -221}
+      - {x: 154, y: -216}
+      - {x: 149, y: -212}
+      - {x: 140, y: -208}
+      - {x: 136, y: -207}
+      - {x: 131, y: -206}
+      - {x: 124, y: -205}
+      - {x: 115, y: -204}
+      - {x: 104, y: -203}
+      - {x: 90, y: -203}
+      - {x: 87, y: -204}
+      - {x: 80, y: -208}
+      - {x: 77, y: -211}
+      - {x: 68, y: -219}
+      - {x: 67, y: -222}
+      - {x: 67, y: -236}
+      - {x: 68, y: -240}
+      - {x: 70, y: -245}
+      - {x: 74, y: -250}
+      - {x: 84, y: -253}
+      - {x: 95, y: -255}
+      - {x: 100, y: -256}
+      - {x: 138, y: -256}
+      - {x: 148, y: -254}
+      - {x: 151, y: -253}
+    - - {x: 239, y: -248}
+      - {x: 243, y: -242}
+      - {x: 246, y: -238}
+      - {x: 250, y: -229}
+      - {x: 253, y: -222}
+      - {x: 255, y: -216}
+      - {x: 255, y: -209}
+      - {x: 253, y: -199}
+      - {x: 251, y: -190}
+      - {x: 249, y: -183}
+      - {x: 246, y: -175}
+      - {x: 242, y: -170}
+      - {x: 239, y: -168}
+      - {x: 233, y: -166}
+      - {x: 228, y: -165}
+      - {x: 220, y: -164}
+      - {x: 210, y: -164}
+      - {x: 206, y: -165}
+      - {x: 199, y: -168}
+      - {x: 196, y: -171}
+      - {x: 189, y: -175}
+      - {x: 186, y: -178}
+      - {x: 178, y: -184}
+      - {x: 168, y: -194}
+      - {x: 166, y: -199}
+      - {x: 164, y: -209}
+      - {x: 163, y: -220}
+      - {x: 163, y: -235}
+      - {x: 165, y: -240}
+      - {x: 168, y: -244}
+      - {x: 179, y: -255}
+      - {x: 182, y: -256}
+      - {x: 225, y: -256}
+      - {x: 230, y: -255}
+      - {x: 235, y: -253}
+    - - {x: 161, y: -165}
+      - {x: 156, y: -159}
+      - {x: 143, y: -153}
+      - {x: 134, y: -153}
+      - {x: 127, y: -156}
+      - {x: 122, y: -162}
+      - {x: 120, y: -168}
+      - {x: 119, y: -172}
+      - {x: 119, y: -184}
+      - {x: 127, y: -196}
+      - {x: 132, y: -197}
+      - {x: 149, y: -197}
+      - {x: 154, y: -195}
+      - {x: 161, y: -188}
+    - - {x: 110, y: -180}
+      - {x: 112, y: -173}
+      - {x: 112, y: -172}
+      - {x: 110, y: -164}
+      - {x: 108, y: -158}
+      - {x: 104, y: -154}
+      - {x: 97, y: -152}
+      - {x: 90, y: -152}
+      - {x: 83, y: -155}
+      - {x: 72, y: -165}
+      - {x: 71, y: -169}
+      - {x: 70, y: -177}
+      - {x: 70, y: -184}
+      - {x: 76, y: -192}
+      - {x: 84, y: -194}
+      - {x: 89, y: -194}
+      - {x: 99, y: -193}
+      - {x: 102, y: -192}
+      - {x: 107, y: -187}
+    - - {x: 255, y: -142}
+      - {x: 254, y: -137}
+      - {x: 253, y: -134}
+      - {x: 250, y: -127}
+      - {x: 247, y: -125}
+      - {x: 242, y: -122}
+      - {x: 232, y: -118}
+      - {x: 221, y: -118}
+      - {x: 212, y: -125}
+      - {x: 210, y: -131}
+      - {x: 209, y: -140}
+      - {x: 209, y: -144}
+      - {x: 211, y: -151}
+      - {x: 215, y: -156}
+      - {x: 218, y: -158}
+      - {x: 224, y: -159}
+      - {x: 233, y: -160}
+      - {x: 242, y: -160}
+      - {x: 246, y: -159}
+      - {x: 251, y: -153}
+      - {x: 254, y: -146}
+    - - {x: 208, y: -132}
+      - {x: 209, y: -128}
+      - {x: 209, y: -122}
+      - {x: 208, y: -114}
+      - {x: 206, y: -108}
+      - {x: 203, y: -105}
+      - {x: 194, y: -101}
+      - {x: 188, y: -99}
+      - {x: 184, y: -98}
+      - {x: 162, y: -98}
+      - {x: 152, y: -99}
+      - {x: 137, y: -101}
+      - {x: 128, y: -103}
+      - {x: 119, y: -113}
+      - {x: 116, y: -118}
+      - {x: 115, y: -124}
+      - {x: 117, y: -129}
+      - {x: 125, y: -138}
+      - {x: 130, y: -142}
+      - {x: 135, y: -145}
+      - {x: 138, y: -146}
+      - {x: 150, y: -147}
+      - {x: 190, y: -147}
+      - {x: 193, y: -146}
+      - {x: 198, y: -144}
+      - {x: 205, y: -137}
+    - - {x: 174, y: -62}
+      - {x: 176, y: -57}
+      - {x: 177, y: -52}
+      - {x: 180, y: -47}
+      - {x: 183, y: -47}
+      - {x: 190, y: -46}
+      - {x: 194, y: -43}
+      - {x: 194, y: -42}
+      - {x: 186, y: -34}
+      - {x: 184, y: -31}
+      - {x: 173, y: -31}
+      - {x: 170, y: -32}
+      - {x: 161, y: -31}
+      - {x: 146, y: -31}
+      - {x: 142, y: -32}
+      - {x: 135, y: -37}
+      - {x: 131, y: -42}
+      - {x: 131, y: -43}
+      - {x: 133, y: -45}
+      - {x: 141, y: -47}
+      - {x: 141, y: -49}
+      - {x: 148, y: -61}
+      - {x: 148, y: -66}
+      - {x: 149, y: -79}
+      - {x: 154, y: -86}
+      - {x: 161, y: -86}
+      - {x: 166, y: -82}
+      - {x: 167, y: -79}
+      - {x: 169, y: -67}
+    - - {x: 116, y: -76}
+      - {x: 116, y: -70}
+      - {x: 111, y: -65}
+      - {x: 108, y: -64}
+      - {x: 103, y: -63}
+      - {x: 87, y: -63}
+      - {x: 79, y: -64}
+      - {x: 78, y: -63}
+      - {x: 66, y: -60}
+      - {x: 57, y: -58}
+      - {x: 39, y: -58}
+      - {x: 32, y: -59}
+      - {x: 21, y: -61}
+      - {x: 3, y: -63}
+      - {x: -6, y: -65}
+      - {x: -10, y: -70}
+      - {x: -10, y: -76}
+      - {x: -7, y: -80}
+      - {x: -4, y: -81}
+      - {x: 1, y: -82}
+      - {x: 7, y: -82}
+      - {x: 20, y: -81}
+      - {x: 27, y: -80}
+      - {x: 28, y: -81}
+      - {x: 41, y: -81}
+      - {x: 42, y: -82}
+      - {x: 51, y: -83}
+      - {x: 92, y: -83}
+      - {x: 98, y: -82}
+      - {x: 107, y: -81}
+      - {x: 111, y: -80}
+    - - {x: 247, y: -49}
+      - {x: 250, y: -45}
+      - {x: 255, y: -45}
+      - {x: 256, y: -44}
+      - {x: 256, y: -41}
+      - {x: 249, y: -33}
+      - {x: 246, y: -32}
+      - {x: 242, y: -31}
+      - {x: 208, y: -31}
+      - {x: 201, y: -34}
+      - {x: 194, y: -42}
+      - {x: 194, y: -43}
+      - {x: 197, y: -46}
+      - {x: 205, y: -47}
+      - {x: 212, y: -50}
+      - {x: 212, y: -55}
+      - {x: 219, y: -62}
+      - {x: 220, y: -65}
+      - {x: 222, y: -74}
+      - {x: 227, y: -78}
+      - {x: 233, y: -78}
+      - {x: 238, y: -74}
+      - {x: 239, y: -71}
+      - {x: 241, y: -56}
+    - - {x: 100, y: -26}
+      - {x: 94, y: -24}
+      - {x: 44, y: -24}
+      - {x: 38, y: -29}
+      - {x: 38, y: -37}
+      - {x: 45, y: -42}
+      - {x: 56, y: -42}
+      - {x: 65, y: -41}
+      - {x: 66, y: -42}
+      - {x: 73, y: -43}
+      - {x: 97, y: -43}
+      - {x: 103, y: -38}
+      - {x: 103, y: -31}
+    - - {x: 151, y: -5}
+      - {x: 153, y: 0}
+      - {x: 155, y: 10}
+      - {x: 166, y: 9}
+      - {x: 170, y: 10}
+      - {x: 184, y: 16}
+      - {x: 187, y: 19}
+      - {x: 187, y: 20}
+      - {x: 182, y: 25}
+      - {x: 177, y: 28}
+      - {x: 171, y: 29}
+      - {x: 165, y: 29}
+      - {x: 160, y: 28}
+      - {x: 136, y: 28}
+      - {x: 128, y: 20}
+      - {x: 127, y: 17}
+      - {x: 127, y: -18}
+      - {x: 129, y: -23}
+      - {x: 133, y: -26}
+      - {x: 136, y: -27}
+      - {x: 140, y: -26}
+      - {x: 144, y: -22}
+      - {x: 146, y: -17}
+      - {x: 147, y: -8}
+    - - {x: 250, y: -14}
+      - {x: 247, y: -9}
+      - {x: 241, y: -7}
+      - {x: 202, y: -7}
+      - {x: 194, y: -8}
+      - {x: 188, y: -10}
+      - {x: 185, y: -14}
+      - {x: 185, y: -21}
+      - {x: 193, y: -26}
+      - {x: 215, y: -26}
+      - {x: 234, y: -25}
+      - {x: 244, y: -24}
+      - {x: 250, y: -20}
+    - - {x: -234, y: 45}
+      - {x: -235, y: 51}
+      - {x: -226, y: 41}
+      - {x: -222, y: 38}
+      - {x: -217, y: 36}
+      - {x: -199, y: 36}
+      - {x: -194, y: 40}
+      - {x: -194, y: 45}
+      - {x: -196, y: 50}
+      - {x: -205, y: 55}
+      - {x: -205, y: 70}
+      - {x: -206, y: 75}
+      - {x: -208, y: 80}
+      - {x: -217, y: 88}
+      - {x: -222, y: 91}
+      - {x: -234, y: 99}
+      - {x: -235, y: 102}
+      - {x: -239, y: 106}
+      - {x: -247, y: 106}
+      - {x: -251, y: 102}
+      - {x: -254, y: 97}
+      - {x: -254, y: 89}
+      - {x: -253, y: 83}
+      - {x: -251, y: 62}
+      - {x: -253, y: 60}
+      - {x: -253, y: 53}
+      - {x: -251, y: 51}
+      - {x: -251, y: 2}
+      - {x: -250, y: -15}
+      - {x: -247, y: -19}
+      - {x: -238, y: -19}
+      - {x: -235, y: -16}
+      - {x: -235, y: 21}
+      - {x: -234, y: 22}
+    - - {x: 251, y: 39}
+      - {x: 243, y: 48}
+      - {x: 235, y: 54}
+      - {x: 219, y: 55}
+      - {x: 199, y: 55}
+      - {x: 195, y: 52}
+      - {x: 190, y: 46}
+      - {x: 189, y: 42}
+      - {x: 191, y: 40}
+      - {x: 199, y: 39}
+      - {x: 203, y: 34}
+      - {x: 208, y: 31}
+      - {x: 216, y: 32}
+      - {x: 220, y: 28}
+      - {x: 222, y: 23}
+      - {x: 229, y: 15}
+      - {x: 231, y: 4}
+      - {x: 238, y: -1}
+      - {x: 245, y: -1}
+      - {x: 250, y: 4}
+      - {x: 251, y: 26}
+    - - {x: 105, y: 170}
+      - {x: 109, y: 171}
+      - {x: 114, y: 176}
+      - {x: 115, y: 180}
+      - {x: 116, y: 189}
+      - {x: 116, y: 225}
+      - {x: 115, y: 228}
+      - {x: 111, y: 232}
+      - {x: 108, y: 233}
+      - {x: 99, y: 242}
+      - {x: 69, y: 242}
+      - {x: 66, y: 245}
+      - {x: 48, y: 245}
+      - {x: 43, y: 241}
+      - {x: 33, y: 240}
+      - {x: 32, y: 241}
+      - {x: 27, y: 242}
+      - {x: 16, y: 242}
+      - {x: 10, y: 239}
+      - {x: 5, y: 233}
+      - {x: 4, y: 223}
+      - {x: 4, y: 177}
+      - {x: 9, y: 170}
+      - {x: 22, y: 169}
+      - {x: 45, y: 169}
+      - {x: 45, y: 129}
+      - {x: 48, y: 125}
+      - {x: 68, y: 125}
+      - {x: 71, y: 128}
+      - {x: 71, y: 169}
+      - {x: 94, y: 169}
+    - - {x: 241, y: 170}
+      - {x: 245, y: 171}
+      - {x: 250, y: 176}
+      - {x: 251, y: 180}
+      - {x: 252, y: 188}
+      - {x: 252, y: 194}
+      - {x: 255, y: 198}
+      - {x: 256, y: 200}
+      - {x: 256, y: 229}
+      - {x: 251, y: 234}
+      - {x: 246, y: 236}
+      - {x: 233, y: 237}
+      - {x: 213, y: 236}
+      - {x: 209, y: 240}
+      - {x: 202, y: 245}
+      - {x: 196, y: 245}
+      - {x: 190, y: 250}
+      - {x: 180, y: 250}
+      - {x: 176, y: 245}
+      - {x: 170, y: 245}
+      - {x: 163, y: 243}
+      - {x: 152, y: 241}
+      - {x: 146, y: 241}
+      - {x: 139, y: 236}
+      - {x: 137, y: 234}
+      - {x: 134, y: 227}
+      - {x: 133, y: 207}
+      - {x: 133, y: 195}
+      - {x: 135, y: 190}
+      - {x: 140, y: 185}
+      - {x: 141, y: 174}
+      - {x: 148, y: 169}
+      - {x: 181, y: 169}
+      - {x: 181, y: 129}
+      - {x: 184, y: 125}
+      - {x: 204, y: 125}
+      - {x: 207, y: 128}
+      - {x: 207, y: 169}
+      - {x: 230, y: 169}
+    bones: []
+    spriteID: 3781e1cc8848d1d4cbf8712e7b9ed515
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
