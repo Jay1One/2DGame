@@ -75,6 +75,8 @@
      <Compile Include="Assets\Scripts\SceneLoader.cs" />
      <Compile Include="Assets\Scripts\StarBonus.cs" />
      <Compile Include="Assets\Scripts\StaticObject.cs" />
+     <Compile Include="Assets\Scripts\Stone.cs" />
+     <Compile Include="Assets\Scripts\Stonefall.cs" />
      <Compile Include="Assets\Scripts\WeaponData.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Unity_projects/2DGame/2D Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

@@ -25,6 +25,8 @@
           <e p="SceneLoader.cs" t="Include" />
           <e p="StarBonus.cs" t="Include" />
           <e p="StaticObject.cs" t="Include" />
+          <e p="Stone.cs" t="Include" />
+          <e p="Stonefall.cs" t="Include" />
           <e p="WeaponData.cs" t="Include" />
         </e>
       </e>
