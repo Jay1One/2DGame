@@ -10,6 +10,7 @@ using UnityEngine;
         private float jumpTimer;
         public static event Action<string> FireAction;
         private Coroutine waitJumpCoroutine;
+        public static event Action RunSwitchAction;
 
         private void Start()
         {
@@ -37,6 +38,10 @@ using UnityEngine;
             if (Input.GetButtonDown("Fire2"))
             {
                 FireAction?.Invoke("Fire2");   
+            }
+            if (Input.GetKeyDown(KeyCode.LeftShift))
+            {
+                 RunSwitchAction?.Invoke();
             }
             
         }

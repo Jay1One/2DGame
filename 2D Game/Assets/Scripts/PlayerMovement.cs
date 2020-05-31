@@ -12,10 +12,15 @@ public class PlayerMovement : CharacterMovement
     [SerializeField] private Animator animator;
     private Rigidbody2D rigidbody;
 
+    private bool isRunning = false;
+
+
+
     private void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
         InputManager.JumpAction += OnJump;
+        InputManager.RunSwitchAction += OnRunSwitch;
     }
 
     private void OnDestroy()
@@ -81,13 +86,15 @@ public class PlayerMovement : CharacterMovement
         Vector2 point = transform.position;
         point.y -= 0.1f;//чтобы избежать рейкаста в самого себя
         RaycastHit2D hit = Physics2D.Raycast(point, Vector2.down, 0.2f);
-        return hit.collider != null;
+        bool result= hit.collider != null;
+        animator.SetBool("Grounded",result);
+        return result;
     }
 
     public override void Move(Vector2 direction)
     {
         Vector2 velocity = rigidbody.velocity;
-        velocity.x = direction.x * maxSpeed;
+        velocity.x = isRunning? direction.x * maxSpeed*2: direction.x * maxSpeed;
         rigidbody.velocity = velocity;
     }
     public override void Stop(float timer)
@@ -108,5 +115,11 @@ public class PlayerMovement : CharacterMovement
             animator.SetTrigger("Jump");
             Jump(inputForce * jumpForce);
         }
+    }
+
+    private void OnRunSwitch()
+    {
+        isRunning = !isRunning;
+        animator.SetBool("IsRunning", isRunning);
     }
 }

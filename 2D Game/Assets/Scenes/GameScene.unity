@@ -891,7 +891,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &249016232
 MonoBehaviour:
@@ -906,7 +906,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moved: 1
-  distance: {x: 6, y: 0, z: 0}
+  distance: {x: 4.5, y: 0, z: 0}
   speed: 0.5
 --- !u!61 &249016233
 BoxCollider2D:
@@ -7865,7 +7865,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1153798390}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.375, y: 0.368, z: 0}
+  m_LocalPosition: {x: 0.451, y: 0.188, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1908800480}
@@ -7944,7 +7944,7 @@ Transform:
   - {fileID: 1908800480}
   - {fileID: 519420032}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1328099565
 MonoBehaviour:
@@ -8053,7 +8053,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7561a9f2c6824d5cbee34d38e71ca474, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponData: {fileID: 11400000, guid: 76f949c6abb3162438b81d63df2764ea, type: 2}
+  weaponData: {fileID: 11400000, guid: 71e68d959224e184bb568cec18b2ebd6, type: 2}
   shootPoint: {fileID: 1153798391}
   axis: Fire2
 --- !u!114 &1328099571
@@ -14774,7 +14774,7 @@ Transform:
   - {fileID: 538013886}
   - {fileID: 838375561}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: -0.01, y: 0, z: 0}
 --- !u!61 &1759304994
 BoxCollider2D:

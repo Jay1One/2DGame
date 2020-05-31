@@ -161,7 +161,7 @@ public class Enemy : MonoBehaviour, IEnemy, IHitbox
             
         }
 
-        hit = Physics2D.Raycast(checkAttackPoint.position, checkAttackPoint.right, 1f);
+        hit = Physics2D.Raycast(checkAttackPoint.position, checkAttackPoint.right, 0.2f);
         if (hit.collider != null)
         {
             var player = hit.collider.GetComponent<Player>();
