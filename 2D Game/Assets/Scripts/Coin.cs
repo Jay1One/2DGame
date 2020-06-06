@@ -5,28 +5,38 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D other)
+    private GameManager gameManager;
+    private void OnCollisionEnter2D(Collision2D other)
     {
         var player = other.gameObject.GetComponent<Player>();
         if (player != null)
         {
-            GameManager.Coins++;
-            StartCoroutine(MoveUp());
             GetComponent<Collider2D>().enabled = false;
+            Rigidbody2D rigidbody = GetComponent<Rigidbody2D>();
+            rigidbody.bodyType = RigidbodyType2D.Kinematic;
+            rigidbody.velocity=Vector2.zero;
+            gameManager = FindObjectOfType<GameManager>();
+            StartCoroutine(MoveToUI());
         }
         
     }
 
-    private IEnumerator MoveUp()
+    private IEnumerator MoveToUI()
     {
+        Camera mainCamera = FindObjectOfType<Camera>();
+        Vector2 startPosition = mainCamera.WorldToScreenPoint(transform.position);
+        Vector2 endPosition = gameManager.CoinUIImage.rectTransform.position;
         var timer = 1f;
-        while (timer>0)
+        var k = 0f;
+        while (timer > 0)
         {
-            transform.Translate(Vector2.up*Time.deltaTime);
-            timer -= Time.deltaTime;
+            timer-= Time.deltaTime;
+            k += Time.deltaTime;
+            Vector2 position = mainCamera.ScreenToWorldPoint(Vector2.Lerp(startPosition, endPosition, k));
+            transform.position = position;
             yield return null;
         }
+        gameManager.Coins++;
         Destroy(gameObject);
-    
     }
 }

@@ -13,7 +13,6 @@ public class Stone : MonoBehaviour, IHitbox
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        
         //нанести урон игроку если скороть камня большая
         if (other.gameObject.GetComponent<Player>()!=null && rigidbody2D.velocity.magnitude>0.01f)
         {

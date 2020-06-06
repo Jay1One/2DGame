@@ -1,5 +1,7 @@
 ﻿using System;
+using Unity.Mathematics;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 namespace DefaultNamespace
 {
@@ -9,6 +11,9 @@ namespace DefaultNamespace
     {
         [SerializeField] private LevelObjectData objectData;
         [SerializeField] private int health = 1;
+        [SerializeField] private GameObject coinPrefab;
+        
+        private bool isDroppingCoins;
         private Rigidbody2D rigidbody;
         public int Health
         {
@@ -29,7 +34,20 @@ namespace DefaultNamespace
 
         public void Die()
         {
-            print("Object has been destroyed"); 
+            if (isDroppingCoins)
+            {
+                var coinWidth = coinPrefab.GetComponent<CircleCollider2D>().radius;
+                int k = 1;
+                for (int i = 0; i < Random.Range(4,5); i++)
+                {
+                    var coinPositionOffset =   i * k * coinWidth;
+                  var  coin=Instantiate(coinPrefab, transform.position, quaternion.identity);
+                  coin.transform.position += new Vector3(coinPositionOffset,0,0);
+                  k *= -1;
+                }
+                
+                
+            }
             Destroy(gameObject);
         }
 
@@ -37,9 +55,15 @@ namespace DefaultNamespace
         {
             health = objectData.Health;
             rigidbody = GetComponent<Rigidbody2D>();
-            rigidbody.bodyType = objectData.isStatic ? RigidbodyType2D.Static : RigidbodyType2D.Dynamic;
+            rigidbody.bodyType = objectData.IsStatic ? RigidbodyType2D.Static : RigidbodyType2D.Dynamic;
+            coinPrefab = objectData.CoinPrefab;
+            if (coinPrefab != null)
+            {
+                isDroppingCoins = true;
+            }
         }
 
+        #region Editor Only
 #if  UNITY_EDITOR
         
         [ContextMenu("Rename")]
@@ -76,5 +100,6 @@ namespace DefaultNamespace
             Move(Vector2.up);
         }
 #endif
+        #endregion
     }
 }

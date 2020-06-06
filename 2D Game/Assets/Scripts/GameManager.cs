@@ -1,18 +1,27 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using UnityEditor.iOS;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
+    public Text coinCounterText;
+    public Image CoinUIImage;
     private static int coins = 0;
 
-    public static int Coins
+    public  int Coins
     {
         get => coins;
         set
         {
             coins = value;
+            if (coinCounterText!=null)
+            {
+                coinCounterText.text = coins.ToString();
+            }
             Debug.Log($"Coins {coins}");
         }
     }
@@ -24,6 +33,8 @@ public class GameManager : MonoBehaviour
         Game,
         Pause,
     }
+
+
 
     private static GameState currentGameState;
     public static GameState CurrentGameState => currentGameState;

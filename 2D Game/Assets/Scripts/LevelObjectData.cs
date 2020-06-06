@@ -5,6 +5,7 @@
     {
         public string Name = "New Level object Name";
         public int Health = 1;
-        public bool isStatic;
-        
+        public bool IsStatic;
+        public GameObject CoinPrefab;
+
     }

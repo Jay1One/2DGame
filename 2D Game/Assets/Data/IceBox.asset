@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: IceBox
   Health: 1
-  isStatic: 0
+  IsStatic: 0
+  CoinPrefab: {fileID: 4852070533810005636, guid: 35b99c83c2a48614f8e1f7e1df133430,
+    type: 3}
